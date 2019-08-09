@@ -7,8 +7,8 @@ The main goal was to implement an A/B test by the ecommerce company and help the
 <b><br>Language Used</b> : Python</br>
 
 <h3>Objectives</h3>
-<ul>Practice working on A/B testing projects and their practical difficulties
-<ul>perform A/B tests and make recommendations backed by computed inferences
+<ul>1.Practice working on A/B testing projects and their practical difficulties
+    2.perform A/B tests and make recommendations backed by computed inferences</ul>
   
 <h3>Steps followed </h3>  
 1.<b> Data Wrangling</b>:<br>
