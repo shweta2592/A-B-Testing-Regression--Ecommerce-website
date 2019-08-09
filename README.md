@@ -1,13 +1,26 @@
 # A-B-Testing-Regression--Ecommerce-website
 
-A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
+<h3>Introduction:</h3>
+The project consisted of around 30k records depicting if the user lands on a new page or an old page of an ecommerce website.
+The main goal was to implement an A/B test by the ecommerce company and help the company understand through statistical conclusions, if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+<b><br>Language Used</b> : Python</br>
 
-Language Used : Python
+<h3>Objectives</h3>
+<ul>Practice working on A/B testing projects and their practical difficulties
+<ul>perform A/B tests and make recommendations backed by computed inferences
+  
+<h3>Steps followed </h3>  
+1. Data Wrangling:<br>
+<ul>remove duplicates or records with missing or mismatched values
+<ul>handle the rows where the landing_page and group columns don't align
 
-Different concepts covered to check if the new page is converting better than the old page. 
-1. Probability
-2. Hypothesis Testing
-3. Regression modelling
+2.<b> Data Analytics <b>:
+<ul>Compute probabilities of converting:
+  1.regardless of page.
+  2.Given that an individual received the treatment
+  3.Given that an individual received the control page
+<ul>Perform Hypothesis Testing and calculate p-values
+<ul>Conduct Logistic Regression
+
 
