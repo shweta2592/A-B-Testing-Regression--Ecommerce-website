@@ -6,7 +6,7 @@ For this project, you will be working to understand the results of an A/B test r
 
 Language Used : Python
 
-Dfferent concepts covered to check if the new page is converting better than the old page. 
+Different concepts covered to check if the new page is converting better than the old page. 
 1. Probability
 2. Hypothesis Testing
 3. Regression modelling
