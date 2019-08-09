@@ -21,6 +21,6 @@ The main goal was to implement an A/B test by the ecommerce company and help the
         <li>Given that an individual received the treatment</li>
         <li>Given that an individual received the control page</li></ul>
 <ul>2.Perform Hypothesis Testing and calculate p-values</ul>
-<ul>3.Conduct Logistic Regression</ul>
+<ul>3.Conduct Logistic Regression - Merge another dataset called Countries to check if there is any interaction between conversion and Country.</ul>
 
 
