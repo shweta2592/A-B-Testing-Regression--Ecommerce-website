@@ -11,7 +11,7 @@ The main goal was to implement an A/B test by the ecommerce company and help the
 <ul>perform A/B tests and make recommendations backed by computed inferences
   
 <h3>Steps followed </h3>  
-1. Data Wrangling:<br>
+1.<b> Data Wrangling</b>:<br>
 <ul>remove duplicates or records with missing or mismatched values</ul>
 <ul>handle the rows where the landing_page and group columns don't align</ul>
 
