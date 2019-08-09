@@ -17,9 +17,9 @@ The main goal was to implement an A/B test by the ecommerce company and help the
 
 2.<b> Data Analytics </b>:
 <ul>1.Compute probabilities of converting:
-    <li>Regardless of page.</li>
-    <li>Given that an individual received the treatment</li>
-    <li>Given that an individual received the control page</li></ul>
+        <li>Regardless of page.</li>
+        <li>Given that an individual received the treatment</li>
+        <li>Given that an individual received the control page</li></ul>
 <ul>2.Perform Hypothesis Testing and calculate p-values</ul>
 <ul>3.Conduct Logistic Regression</ul>
 
