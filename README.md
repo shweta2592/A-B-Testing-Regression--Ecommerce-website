@@ -15,7 +15,7 @@ The main goal was to implement an A/B test by the ecommerce company and help the
 <ul>remove duplicates or records with missing or mismatched values</ul>
 <ul>handle the rows where the landing_page and group columns don't align</ul>
 
-2.<b> Data Analytics <b>:
+2.<b> Data Analytics </b>:
 <ul>Compute probabilities of converting:
   1.regardless of page.
   2.Given that an individual received the treatment
