@@ -16,11 +16,11 @@ The main goal was to implement an A/B test by the ecommerce company and help the
 <ul>2.Handle the rows where the landing_page and group columns don't align</ul>
 
 2.<b> Data Analytics </b>:
-<ul>Compute probabilities of converting:
- <li> 1.regardless of page.
-  2.Given that an individual received the treatment
-     3.Given that an individual received the control page</li></ul>
-<ul>Perform Hypothesis Testing and calculate p-values</ul>
-<ul>Conduct Logistic Regression</ul>
+<ul>1.Compute probabilities of converting:
+    <li>Regardless of page.</li>
+    <li>Given that an individual received the treatment</li>
+    <li>Given that an individual received the control page</li></ul>
+<ul>2.Perform Hypothesis Testing and calculate p-values</ul>
+<ul>3.Conduct Logistic Regression</ul>
 
 
