@@ -1,7 +1,7 @@
 # A-B-Testing-Regression--Ecommerce-website
 
 <h3>Introduction:</h3>
-The project consisted of around 30k records depicting if the user lands on a new page or an old page of an ecommerce website.
+The dataset consisted of around 30k records depicting if the user lands on a new page or an old page of an ecommerce website.
 The main goal was to implement an A/B test by the ecommerce company and help the company understand through statistical conclusions, if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 <b><br>Language Used</b> : Python</br>
